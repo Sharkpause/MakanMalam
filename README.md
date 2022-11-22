@@ -3,4 +3,4 @@
 
 This program basically lets you input a bunch of food items into a list and it will randomly pick one from the list
 
-Feel free to contribute and please let me know of some bugs
+Feel free to contribute and please let me know of bugs
